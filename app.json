@@ -1,12 +1,10 @@
 {
-  "name": "template-expo-bare",
-  "displayName": "template-expo-bare",
-  "expo": {
     "name": "template-expo-bare",
-    "slug": "template-expo-bare",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+    "displayName": "template-expo-bare",
+    "expo": {
+        "name": "template-expo-bare",
+        "slug": "template-expo-bare",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"]
+    }
 }
